@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice Genrator App Solution](https://www.frontendmentor.io/solutions/embracing-simplicity-my-return-to-frontend-mentor-challenges-M4na-kmhLR)
+- Live Site URL: [Advice Genrator App Live](https://saadaan-hassan.github.io/AdviceGenratorApp/)
 
 ## Built with
 
